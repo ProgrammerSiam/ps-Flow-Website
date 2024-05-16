@@ -110,7 +110,7 @@ export default function Blog() {
                 <div className="flex flex-col gap-[24px]">
                   {/* text */}
                   <div className="">
-                    <h2 className="text-lg font-semibold leading-9 tracking-tighter text-Content-Primary">
+                    <h2 className="text-lg font-semibold leading-9 tracking-tighter line-clamp-2 md:line-clamp-none text-Content-Primary">
                       Wind Power: A Breath of Fresh Air for Clean Energy
                       Enthusiasts
                     </h2>
