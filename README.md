@@ -5,11 +5,8 @@
     </a>
   <br />
 
-  <h3 align="center">Modern UI/UX website</h3>
+  <h3 align="center">Flow Website</h3>
 
-   <div align="center">
-     Build this project step by step in <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube Channel.
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
