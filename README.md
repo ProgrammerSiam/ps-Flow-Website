@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="https://i.ibb.co/55g7xRb/Post.jpg" alt="Project Banner">
+      <img src="" alt="Project Banner">
     </a>
   <br />
 
@@ -44,45 +44,6 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
 and many more, including code architecture and reusability
-
-
-## <a name="learn">📚 Learn</a>
-
-
-  **Header**:
--  Create an active link for navigation
--  Use conditional statements to control the display of elements
--  Implement dynamic classes to style elements based on conditions
--  Explore new npm packages like scroll-lock
--  Build a hamburger menu that toggles visibility of navigation items
--  Implement click functionality to navigate to different sections of the website
-
-
-  **Hero Section**:
--  Utilize the react-just-parallax npm package to create a parallax effect
--  Explore features like curve and BackgroundCircles for visual enhancements  
-
-  **Benefits Section**:
--  Create a component to maintain consistency in titles
--  Learn design concepts to improve the visual appeal of your project
-
-  **Collaboration Section**:
--  Design circular images
--  Apply design principles to enhance the layout
-
-  **Services Section**:
--  Implement a Bento Box layout for effective content organization
-
-  **Pricing Section**:
--  Design a visually appealing pricing table with a left/right orientation  
-
-  **Roadmap Section**:
--  Utilize advanced grid layouts for a structured design
-
-  **Footer Section**:
--  Design a simple footer layout
-
-
 
 
 ## Connect with me!
